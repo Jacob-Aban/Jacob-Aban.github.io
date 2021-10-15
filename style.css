@@ -1,0 +1,8 @@
+#gameCanvas {
+  fill: rgb(199, 90, 150);
+  border: 9px solid rgba(244, 245, 248, 0.712);
+  height: 1000;
+  width: 600;
+ background: black;
+ 
+}
